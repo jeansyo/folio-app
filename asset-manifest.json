@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9214196b.chunk.css",
+    "main.js": "/static/js/main.4e0de1f0.chunk.js",
+    "main.js.map": "/static/js/main.4e0de1f0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d48243a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d48243a.js.map",
+    "static/js/2.9be0438a.chunk.js": "/static/js/2.9be0438a.chunk.js",
+    "static/js/2.9be0438a.chunk.js.map": "/static/js/2.9be0438a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9214196b.chunk.css.map": "/static/css/main.9214196b.chunk.css.map",
+    "static/js/2.9be0438a.chunk.js.LICENSE.txt": "/static/js/2.9be0438a.chunk.js.LICENSE.txt",
+    "static/media/aboutme.c2535551.jpg": "/static/media/aboutme.c2535551.jpg",
+    "static/media/ansellbanner.e23c4f7e.jpg": "/static/media/ansellbanner.e23c4f7e.jpg",
+    "static/media/ansellexample.57ba5542.jpg": "/static/media/ansellexample.57ba5542.jpg",
+    "static/media/ansellexample1.abb5ac02.jpg": "/static/media/ansellexample1.abb5ac02.jpg",
+    "static/media/cv.edc019d0.pdf": "/static/media/cv.edc019d0.pdf",
+    "static/media/portafolio.css": "/static/media/effect.9a423a3d.jpg",
+    "static/media/elbbanner.c00b6bc4.jpg": "/static/media/elbbanner.c00b6bc4.jpg",
+    "static/media/elbexample.612076e0.jpg": "/static/media/elbexample.612076e0.jpg",
+    "static/media/elbexample1.af5a4c32.jpg": "/static/media/elbexample1.af5a4c32.jpg",
+    "static/media/folio.86bb91a2.jpg": "/static/media/folio.86bb91a2.jpg",
+    "static/media/mernbanner.11d0ab48.jpg": "/static/media/mernbanner.11d0ab48.jpg",
+    "static/media/mernexample.3a626d89.jpg": "/static/media/mernexample.3a626d89.jpg",
+    "static/media/mernexample1.b83505fc.jpg": "/static/media/mernexample1.b83505fc.jpg",
+    "static/media/metamaskbanner.516dfc7e.jpg": "/static/media/metamaskbanner.516dfc7e.jpg",
+    "static/media/metamaskexample.1a0a8142.jpg": "/static/media/metamaskexample.1a0a8142.jpg",
+    "static/media/metamaskexample1.402952c3.jpg": "/static/media/metamaskexample1.402952c3.jpg",
+    "static/media/profile.3dc226df.jpg": "/static/media/profile.3dc226df.jpg",
+    "static/media/saludbanner.999fb69e.jpg": "/static/media/saludbanner.999fb69e.jpg",
+    "static/media/saludexample.e4f6609f.jpg": "/static/media/saludexample.e4f6609f.jpg",
+    "static/media/saludexample1.94e0cd1f.jpg": "/static/media/saludexample1.94e0cd1f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d48243a.js",
+    "static/js/2.9be0438a.chunk.js",
+    "static/css/main.9214196b.chunk.css",
+    "static/js/main.4e0de1f0.chunk.js"
+  ]
+}
